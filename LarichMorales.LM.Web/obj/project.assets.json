@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMLABPC11\\Documents\\Seed\\LarichMorales.LM\\LarichMorales.LM.Web\\LarichMorales.LM.Web.csproj",
+      "projectUniqueName": "C:\\Users\\COMLABPC11\\Documents\\Projects\\LarichMorales.LM.Web\\LarichMorales.LM.Web\\LarichMorales.LM.Web.csproj",
       "projectName": "LarichMorales.LM.Web",
-      "projectPath": "C:\\Users\\COMLABPC11\\Documents\\Seed\\LarichMorales.LM\\LarichMorales.LM.Web\\LarichMorales.LM.Web.csproj",
+      "projectPath": "C:\\Users\\COMLABPC11\\Documents\\Projects\\LarichMorales.LM.Web\\LarichMorales.LM.Web\\LarichMorales.LM.Web.csproj",
       "packagesPath": "C:\\Users\\COMLABPC11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\COMLABPC11\\Documents\\Seed\\LarichMorales.LM\\LarichMorales.LM.Web\\obj\\",
+      "outputPath": "C:\\Users\\COMLABPC11\\Documents\\Projects\\LarichMorales.LM.Web\\LarichMorales.LM.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

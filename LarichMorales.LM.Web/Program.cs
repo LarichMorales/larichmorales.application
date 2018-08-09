@@ -19,6 +19,7 @@ namespace LarichMorales.LM.Web
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseKestrel(options => { options.Listen(IPAddress.Loopback, 6100); })
                 .UseStartup<Startup>()
                 .Build();
     }
